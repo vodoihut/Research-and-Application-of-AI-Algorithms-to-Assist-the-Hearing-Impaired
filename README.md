@@ -1,4 +1,4 @@
-# BreadcrumbsResearch-and-Application-of-AI-Algorithms-to-Assist-the-Hearing-Impaired
+# Research and Application of AI Algorithms to Assist the Hearing Impaired
 The project "Research and Application of AI Algorithms to Assist the Hearing Impaired" utilizes deep learning techniques such as CNN, machine learning with SVM, and Google's Mediapipe Hands Tracking method to recognize sign language. 
 The goal is to develop a system that converts hand signs into text, making communication more convenient for the hearing impaired. The project includes data collection, experimentation, and building a demo product, under the guidance of Ms. Chu Thi Quyen. 
 The system achieved good results but needs performance improvements.
